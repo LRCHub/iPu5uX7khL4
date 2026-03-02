@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "どしゃぶりの雨の中で",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T19:25:44.644128Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どしゃぶりの雨の中で",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/01_どしゃぶりの雨の中で_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どしゃぶりの雨の中で",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_どしゃぶりの雨の中で_サンボマスター.txt"
+    }
+  ]
+}
